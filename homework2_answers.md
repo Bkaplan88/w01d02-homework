@@ -8,7 +8,7 @@ Part 1 - Github
 1: git pull
 2: git rm --cached
 3: git reset --
-4: 
+4: this is necessary to avoid deleting extra content
 5: A fresh start and undoing some damaging changes can be helpful if you mess something up.
 
 1: git checkout
