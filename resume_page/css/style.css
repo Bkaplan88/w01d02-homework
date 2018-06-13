@@ -37,6 +37,8 @@ h3 {
 	padding: 15px 17px;
 	text-decoration: none;
 	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
 
 
 }
@@ -77,6 +79,8 @@ iframe {
 	margin-left: auto;
 	margin-right: auto;
 	display: block;
+	border: 2px solid black;
+	border border-radius: 25%;
 }
 
 .special {
@@ -97,3 +101,6 @@ iframe {
 	color: white;
 }
 
+a {
+	padding: 5px;
+}
